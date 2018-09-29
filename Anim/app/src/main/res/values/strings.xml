@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Anim</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="pieces">
+        <item>King</item>
+        <item>Queen</item>
+        <item>Bishop</item>
+        <item>Knight</item>
+    </string-array>
+    <string-array name="Description">
+        <item>King</item>
+        <item>Queen</item>
+        <item>Bishop</item>
+        <item>Knight</item>
+    </string-array>
+</resources>
